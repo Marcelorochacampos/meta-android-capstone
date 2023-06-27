@@ -1,5 +1,5 @@
 # META Android capstone project
- - The following project contain the little lemon app for the android capstone course
+ - The following project contains the little lemon app for the android capstone course
 
 ## Screens
  - It contains the Onboarding screen where the user can input his information
